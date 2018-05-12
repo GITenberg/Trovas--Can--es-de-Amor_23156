@@ -1,0 +1,32 @@
+_repo: Trovas--Can--es-de-Amor_23156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferreira, António Florêncio
+    alias: Ferreira, António Florencio
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '25716'
+    url: http://www.gutenberg.org/2009/agents/25716
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23156'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nImprensa de Libanio da Silva\r\n29--Rua das Gaveas--31\r\
+  \n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Trovas: Canções de Amor'
+url: http://www.gutenberg.org/ebooks/23156
